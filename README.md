@@ -1,7 +1,5 @@
 # Valorant API-SERVER
 
-(<https://www.dafont.com/forum/attach/orig/9/2/925672.png>)
-
 ## About the Project
 
 This project is an introduction about the use of APIs, in this case I used the Valorant API to work on it.
