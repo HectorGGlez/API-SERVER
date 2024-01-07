@@ -4,7 +4,7 @@
 
 This project is an introduction about the use of APIs, in this case I used the Valorant API to work on it.
 
-If you want to implement this API in your projectos you should follow the next steps.
+If you want to implement this API in your projects you should follow the next steps.
 
 1. Firstly, you need to go to the next link **<https://valorant-api.com>**
 2. In the web page you will can to see four tabs at the top of the page, you must to do click in the **Dashboard/Docs** option.
